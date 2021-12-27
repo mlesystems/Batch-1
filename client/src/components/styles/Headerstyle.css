@@ -1,0 +1,55 @@
+/* This Code For Slider IN Header Page */
+
+#slider-1 {
+  height: 33em;
+}
+
+#slider1-head {
+  color: rgb(250, 0, 0);
+  font-size: -webkit-xxx-large;
+  z-index: inherit;
+  opacity: revert;
+}
+
+#slider1-desc {
+  color: rebeccapurple;
+}
+
+#slider-2 {
+  height: 33em;
+}
+
+#slider2-head {
+  color: rgb(250, 0, 0);
+  font-size: -webkit-xxx-large;
+  z-index: inherit;
+  opacity: revert;
+}
+
+#slider2-desc {
+  color: rebeccapurple;
+}
+
+/* #slider-3{
+    height: 33em;
+}
+
+#slider3-head{
+    color: rgb(250, 0, 0);
+    font-size: -webkit-xxx-large;
+    z-index: inherit;
+    opacity: revert;
+}
+
+#slider3-desc {
+    color: rebeccapurple;    
+} */
+
+/* This Code Is For Footer In Footer Page */
+
+#footerStyle {
+  position: relative;
+  top: 10vh;
+  width: 100%;
+  margin-top: 10em;
+}
